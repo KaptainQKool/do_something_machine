@@ -60,3 +60,6 @@ def hello_world():
 
 def something():
     pass
+
+def nothing():
+    pass
