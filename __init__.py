@@ -51,3 +51,6 @@ def do_things():
 
 def do_stuff():
     pass
+
+def boink():
+    pass
