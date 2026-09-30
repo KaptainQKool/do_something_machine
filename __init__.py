@@ -54,3 +54,6 @@ def do_stuff():
 
 def boink():
     pass
+
+def hello_world():
+    pass
